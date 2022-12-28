@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+     {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea sold arms to Russia's Wagner group, US says",
+    "description": "The White House says North Korea provided missiles and rockets to be used in Ukraine, which Pyongyang denies.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64072570",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12FB5/production/_128094777_a5ec5423-b0ca-4498-b033-1b2f20c9c41f.jpg",
+    "publishedAt": "2022-12-23T12:22:36.6070472Z",
+    "content": "The United States has accused North Korea of supplying battlefield missiles and rockets to the Russian mercenary group Wagner for use in Ukraine.\r\nThe White House said the shipment violated UN Securi… [+2738 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Philippines cockfighting: Charges laid over alleged kidnappings",
+    "description": "Dozens of people linked to the lucrative cockfighting industry have gone missing in the Philippines.",
+    "url": "http://www.bbc.co.uk/news/world-asia-64074474",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EFD9/production/_128110416_cockfighting.jpg",
+    "publishedAt": "2022-12-23T12:22:32.0261437Z",
+    "content": "Six people have been charged over the kidnapping of a group of people linked to the world of cockfighting in the Philippines. \r\nThe group of six is thought to have been abducted on their way to a fig… [+1742 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mariupol theatre demolished 'to hide Russian crimes', aide says",
+    "description": "An aide to the Ukrainian city's exiled mayor says Russia is trying to cover up its crimes.",
+    "url": "http://www.bbc.co.uk/news/world-europe-64075088",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8016/production/_128109723_4b047f38-0f70-46eb-b2d9-381a21ee3da8.jpg",
+    "publishedAt": "2022-12-23T12:22:29.1947638Z",
+    "content": "Russian authorities have started destroying the ruined theatre in Mariupol, according to an aide to the city's exiled Ukrainian mayor.\r\nPetro Andryushchenko accused the occupying authorities of seeki… [+2443 chars]"
+    }
+]
+}
